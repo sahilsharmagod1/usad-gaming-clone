@@ -1,12 +1,14 @@
-body {
-  font-family: Arial, sans-serif;
-  text-align: center;
-  background: #121212;
+#color-options button {
+  padding: 15px 25px;
+  margin: 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
   color: white;
-  margin-top: 50px;
-}
-button {
-  padding: 10px 20px;
-  font-size: 16px;
   cursor: pointer;
+}
+
+#result {
+  font-size: 20px;
+  margin-top: 20px;
 }
